@@ -1,0 +1,28 @@
+mkdir Data-Scrap
+cd Data-Scrap
+echo>native.php
+open native.php
+
+<?php
+// $html = file_get_contents('https://www.olx.com.pk/');
+// echo $html;
+require 'vendor/autoload.php';
+use Goutte\Client;
+$client = new Client();
+$crawler = $client->request('GET', 'https://www.olx.com.pk/post');
+echo $crawler->
+
+
+php native.php
+echo>scrap-data.json
+ echo>scrap-data.php
+
+
+ get ssh key 
+ cd ~/.ssh
+  ls
+  cat id_rsa.pub
+
+  ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCw18SYoS037AXyoiqUDyUEiGwrG1Zyl1bLXqZxZAeeChYlCfY1KhTWPrXRfn1FC8wVNz75kQtOu3tEOD1M3mEw2hJ//TlYEjFQaKEQB6QuGcuZTaKAZSM1M1LJouvGbnLnTe2njM2xa1kya4zDK1Tu728iAQJXHjxpmN7TR+udwpM54FpHs8Tpt7nZwJhfUXcAEVpsuPfjY70WhrtEIGLeHeiZmpKu/I9CuMjJL/5faHS2b56H8ZVyjEqLUxNWsAhUqyHp485KWdukmZriEnt8hBrkf3hLqk9YwXpgzoRmQIE1GFPzqeYYZHZZaOq5jWke8qeGNHzZv0BxzBGacJqdsq8fgbIxNkz0lfez1UvEZRDKMS6qYSkk7dLfGdKHfASwznyx0yhJ/cd6C4DQccgkzdwcTJ5swFJjkoW3xE2H8hFd1kV4QfNFeB1RvadyHogPDkdcp5PjeLg1rqMHnxus6R8wv+8JDKwUWyR9fHaah/Jeoq3eD84GOLTaghqIHV69DeCHpGik8BhuTornvxlARz29Np5LP0o1riDFynH69Pu55tLy34B0qF1WFocbt1jGxbd1LdbZytSyrT8Y4pJv34nMgLsG45ruwJZygZkLpK2pKayE3Nf3rrPlpO8UEp7clakevMORQhs9rzlClqizpQWASQnwEGQC35p8mQ5+EQ== muhammad.ishfaq@bluehorntech.co.uk
+
+  
